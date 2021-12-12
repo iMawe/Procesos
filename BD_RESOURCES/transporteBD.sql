@@ -1,5 +1,4 @@
 create user mina identified by mina default tablespace users quota unlimited on users;
-
 grant connect, resource to mina;
 
 CREATE TABLE Transporte(
