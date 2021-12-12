@@ -1,3 +1,7 @@
+create user mina identified by mina default tablespace users quota unlimited on users;
+
+grant connect, resource to mina;
+
 CREATE TABLE Transporte(
     transporteID   INTEGER NOT NULL,
     transporteNombre   VARCHAR2(20 CHAR),
