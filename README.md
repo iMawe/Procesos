@@ -20,7 +20,6 @@ Finalmente, utilizamos Android Studio, para poder crear nuestra aplicación Andr
     - https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes
   - Package Newtonsoft.Json: Al crear un Web Service vemos que nos retorna código .xml, si nosotros consideramos mejor manejable el formato JSON, tenemos esta referencia del Visual para poder retornar un string JSON.
     - https://www.c-sharpcorner.com/UploadFile/ansh06031982/creating-web-services-in-net-which-returns-xml-and-json-dat/
-    - 
 ## Autores 
 
 El proyecto se realizó como proyecto final del curso de Procesos de Software en la Universidad La Salle - Arequipa.
