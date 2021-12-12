@@ -14,10 +14,12 @@ Finalmente, utilizamos Android Studio, para poder crear nuestra aplicación Andr
 
 ### Pre-requisitos 📋
 
-* Oracle 11g. 
+* Oracle 11g.
+  - Oracle SQL Developer: Descargamos oracle 11g para un correcto funcionamiento.
+    - https://community.oracle.com/tech/developers/discussion/4287159/oracle-database-11g-release-2-express-edition-for-windows-64
 * Visual Studio 2019
   - ODAC for Visual Studio 2019: Nos agrega una referencia para poder utlizar todos los comandos que Oracle tiene para su manejo en Visual Studio
-    - https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes
+    - https://www.oracle.com/database/technologies/dotnet-utilsoft-downloads.html
   - Package Newtonsoft.Json: Al crear un Web Service vemos que nos retorna código .xml, si nosotros consideramos mejor manejable el formato JSON, tenemos esta referencia del Visual para poder retornar un string JSON.
     - https://www.c-sharpcorner.com/UploadFile/ansh06031982/creating-web-services-in-net-which-returns-xml-and-json-dat/
 ## Autores 
