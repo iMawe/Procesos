@@ -1,7 +1,7 @@
-# Procesos
-Sistema de Transporte
+# Sistema de Transporte
 
-# Web Service Application: Implementación en Visual Studio 2019
+
+## Web Service Application: Implementación en Visual Studio 2019
 
 Visual Studio 2019 nos permite crear de manera sencilla y rápida un Web Service, ya que cuenta con una plantilla predeterminada para el mismo. En el proyecto nosotros separaremos la aplicación en tres partes: Conexión a la BD Oracle 11g, creación de procedimientos, main de los Web Methods para el Web Service. 
 
